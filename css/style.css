@@ -82,16 +82,26 @@ header img {
 }
 
 .box-content h1 {
-    font-family: Helvetica;
-    font-size: bold;
-  }
+  font-family: Helvetica;
+  font-size: bold;
+}
 
 .box-content h3 {
-    color: #91dfdb;
+  color: #91dfdb;
 }
 
 .box-3 img {
   width: 250px;
+  margin: 20px;
+  transform: rotate(10deg);
+}
+
+.box-3 .iphone1 {
+  padding-bottom: 200px;
+}
+
+.box-3 .iphone2 {
+  padding-top: 200px;
 }
 
 /* footer */
