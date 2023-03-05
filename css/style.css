@@ -122,24 +122,6 @@ header img {
   margin-top: 10px;
 }
 
-/* .box-2 .controles {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width: 300px;
-}
-
-.box-2 .controles img {
-  width: 200px;
-  height: 200px;
-  display: block;
-}
-
-.box-2 .conteudos {
-  width: 600px;
-  margin-left: 75px;
-}  */
-
 .box-2 .conteudos > .hide {
   display: none;
 }
