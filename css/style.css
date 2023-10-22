@@ -126,6 +126,10 @@ header img {
   display: none;
 }
 
+.txt-p {
+  color: #000000;
+}
+
 .box-2 .conteudos h1,
 strong {
   color: rgb(137, 11, 254);
